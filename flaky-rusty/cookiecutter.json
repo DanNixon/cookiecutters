@@ -1,0 +1,6 @@
+{
+    "project_name": "Project Name",
+    "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_') }}",
+    "container_tooling": true,
+    "funding": false
+}
